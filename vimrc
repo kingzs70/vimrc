@@ -174,7 +174,7 @@ Bundle 'jQuery'
 " Snippets
 Bundle 'gmarik/snipmate.vim'
 Bundle 'honza/vim-snippets'
-
+Bundle 'mattn/emmet-vim'
 Bundle 'scrooloose/nerdtree'
 Bundle 'vim-scripts/YankRing.vim'
 Bundle 'vim-scripts/taglist.vim'
